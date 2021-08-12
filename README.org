@@ -1,0 +1,7 @@
+
+This is a fork of [[https://github.com/jeremymcrae/bgen][jeremymcrae/bgen: fast bgen parser for python]].
+
+*TODO*
+
+- [X] remove python codes and don't complie zstd lib
+- [ ] add sqllite c++ interface to support index query

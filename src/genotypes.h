@@ -10,6 +10,8 @@
 
 namespace bgen {
 
+typedef unsigned int uint;
+
 class Genotypes {
   std::uint64_t offset;
   std::ifstream* handle;
